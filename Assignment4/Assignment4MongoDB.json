@@ -1,0 +1,32 @@
+[
+    {
+        "Key": "1",
+        "Title": "Laptop",
+        "Price": 800.50,
+        "Information": "A powerful laptop with 16GB RAM"
+    },
+    {
+        "Key": "2",
+        "Title": "Phone",
+        "Price": 500.00,
+        "Information": "A smartphone with AMOLED display"
+    },
+    {
+        "Key": "3",
+        "Title": "Tablet",
+        "Price": 300.00,
+        "Information": "A compact tablet with long battery life"
+    },
+    {
+        "Key": "4",
+        "Title": "Headphones",
+        "Price": 50.99,
+        "Information": "Wireless over-ear headphones"
+    },
+    {
+        "Key": "5",
+        "Title": "Smartwatch",
+        "Price": 150.25,
+        "Information": "A smartwatch with fitness tracking features"
+    }
+]
